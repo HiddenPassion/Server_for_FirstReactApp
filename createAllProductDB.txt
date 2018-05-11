@@ -1,0 +1,64 @@
+const sample1 = new AllProducts( {
+	ID: '1',
+	name:'1',
+	description: '1',
+	URL: 'https://www.google.by/search?q=image&rlz=1C1GGRV_enBY751BY751&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEyo6h6_zaAhUG_aQKHWvFAccQ_AUoAXoECAAQAw&biw=2114&bih=1024#imgrc=0DzWhtJoQ1KWgM:',
+});
+const sample2 = new AllProducts( {
+	ID: '2',
+	name:'2',
+	description: '2',
+	URL: 'https://www.google.by/search?q=image&rlz=1C1GGRV_enBY751BY751&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEyo6h6_zaAhUG_aQKHWvFAccQ_AUoAXoECAAQAw&biw=2114&bih=1024#imgrc=0DzWhtJoQ1KWgM:',
+});
+const sample3 = new AllProducts( {
+	ID: '3',
+	name:'3',
+	description: '3',
+	URL: 'https://www.google.by/search?q=image&rlz=1C1GGRV_enBY751BY751&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEyo6h6_zaAhUG_aQKHWvFAccQ_AUoAXoECAAQAw&biw=2114&bih=1024#imgrc=0DzWhtJoQ1KWgM:',
+});
+const sample4 = new AllProducts( {
+	ID: '4',
+	name:'4',
+	description: '4',
+	URL: 'https://www.google.by/search?q=image&rlz=1C1GGRV_enBY751BY751&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEyo6h6_zaAhUG_aQKHWvFAccQ_AUoAXoECAAQAw&biw=2114&bih=1024#imgrc=0DzWhtJoQ1KWgM:',
+});
+const sample5 = new AllProducts( {
+	ID: '5',
+	name:'5',
+	description: '5',
+	URL: 'https://www.google.by/search?q=image&rlz=1C1GGRV_enBY751BY751&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEyo6h6_zaAhUG_aQKHWvFAccQ_AUoAXoECAAQAw&biw=2114&bih=1024#imgrc=0DzWhtJoQ1KWgM:',
+});
+const sample6 = new AllProducts( {
+	ID: '6',
+	name:'6',
+	description: '6',
+	URL: 'https://www.google.by/search?q=image&rlz=1C1GGRV_enBY751BY751&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEyo6h6_zaAhUG_aQKHWvFAccQ_AUoAXoECAAQAw&biw=2114&bih=1024#imgrc=0DzWhtJoQ1KWgM:',
+});
+const sample7 = new AllProducts( {
+	ID: '7',
+	name:'7',
+	description: '7',
+	URL: 'https://www.google.by/search?q=image&rlz=1C1GGRV_enBY751BY751&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEyo6h6_zaAhUG_aQKHWvFAccQ_AUoAXoECAAQAw&biw=2114&bih=1024#imgrc=0DzWhtJoQ1KWgM:',
+});
+const sample8 = new AllProducts( {
+	ID: '8',
+	name:'8',
+	description: '8',
+	URL: 'https://www.google.by/search?q=image&rlz=1C1GGRV_enBY751BY751&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEyo6h6_zaAhUG_aQKHWvFAccQ_AUoAXoECAAQAw&biw=2114&bih=1024#imgrc=0DzWhtJoQ1KWgM:',
+});
+const sample9 = new AllProducts( {
+	ID: '9',
+	name:'9',
+	description: '9',
+	URL: 'https://www.google.by/search?q=image&rlz=1C1GGRV_enBY751BY751&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEyo6h6_zaAhUG_aQKHWvFAccQ_AUoAXoECAAQAw&biw=2114&bih=1024#imgrc=0DzWhtJoQ1KWgM:',
+});
+
+sample1.save();
+sample2.save();
+sample3.save();
+sample4.save();
+sample5.save();
+sample6.save();
+sample7.save();
+sample8.save();
+sample9.save();
